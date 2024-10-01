@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cketusi.github.io/sitemap.html.gz
+Sitemap: https://cketusi.github.io/app/sitemap.html.gz
+Sitemap: https://cketusi.github.io/assets/sitemap.html.gz
+Sitemap: https://cketusi.github.io/css/sitemap.html.gz
+Sitemap: https://cketusi.github.io/data/sitemap.html.gz
+Sitemap: https://cketusi.github.io/includes/sitemap.html.gz
+Sitemap: https://cketusi.github.io/item/sitemap.html.gz
+Sitemap: https://cketusi.github.io/src/sitemap.html.gz
